@@ -1,7 +1,7 @@
 # Recording JavaScript
 ![Script JavaScript for Reacording audio](https://media.giphy.com/media/dZi4g3e25vn1cH6Cx4/giphy.gif)
 
-#Techs:
+# Techs:
 
 ## JavaScript :
 - webKitSpeechRecognition : that Function  works for recording the audio and write in screen
